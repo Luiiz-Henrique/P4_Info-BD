@@ -1,0 +1,8 @@
+Defina o que é:
+1) Sistema Isolado
+- É quando funções estão sendo trabalhadas de forma individual sem se quer compartilhar nenhum dado, esse sistema pode ser
+ruim pois acontece uma redundancia de dados.
+
+2) Sistema Integrado
+- Ja no sistema integrado um dado só precisa ser adicionado uma vez, já que é compartilhado pelas funções, sendo uma 
+solução para redundancia de dado.
